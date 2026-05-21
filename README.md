@@ -95,8 +95,9 @@ ls
 You will see:
 ```bash
 index.html
-file1 to file20
 ```
+file1 to file20
+
 This proves the container backup image contains all data.
 
 # Step 13: Test Website in Browser
